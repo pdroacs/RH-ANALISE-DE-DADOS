@@ -40,6 +40,7 @@ Análise dinâmica por filtros
 Apoio à tomada de decisão para gestores de RH
 
 🛠 Ferramentas utilizadas
+
 Excel
 Power BI
 Power Query
