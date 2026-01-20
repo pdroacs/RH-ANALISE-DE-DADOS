@@ -30,7 +30,6 @@ Comparações entre categorias / áreas
 
 Indicadores gerais de RH voltados a custo e estrutura salarial
 
-(adicione ou ajuste conforme seu dashboard)
 
 📊 Dashboard
 
