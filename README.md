@@ -49,5 +49,3 @@ DAX (medidas e indicadores)
 
 💡 Insights gerados
 A análise permite identificar padrões salariais, possíveis discrepâncias e oportunidades de otimização da estrutura de custos com pessoal, apoiando decisões mais estratégicas na área de Recursos Humanos.
-
-A análise permite identificar padrões salariais, possíveis discrepâncias e oportunidades de otimização da estrutura de custos com pessoal, apoiando decisões mais estratégicas na área de Recursos Humanos.
