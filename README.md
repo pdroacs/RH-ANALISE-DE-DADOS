@@ -1,12 +1,11 @@
 # RH-ANALISE-DE-DADOS
 
 📊 Projeto: Análise de Salários e Indicadores de RH
-🎯 Objetivo
 
+🎯 Objetivo
 Desenvolver um dashboard interativo de Recursos Humanos com foco na análise de salários, permitindo a visualização dos principais indicadores para apoiar decisões estratégicas relacionadas à gestão de pessoas e custos.
 
 📂 Fonte dos dados
-
 Os dados utilizados no projeto foram organizados em Excel, contendo informações relacionadas a salários e variáveis de RH, posteriormente tratadas e modeladas no Power BI.
 
 🔧 Tratamento dos dados
